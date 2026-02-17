@@ -9,8 +9,6 @@ I'm a Software Technology student focused on full-stack development and UI/UX de
 
 ---
 
-### 🛠️ Tech Stack
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,go,react,nextjs,mysql,postgres,git,linux,github,figma" />
