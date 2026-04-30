@@ -1,14 +1,11 @@
 ## 👋 Hi there, and
 ![abstractheader](https://github.com/user-attachments/assets/bfa9ce1c-8f42-4649-b7e9-d8781a4b36e2)
 
-Software Technology student focused on backend and full-stack development. 
-Currently pursuing a Bachelor’s in Computer Science at Linnaeus University (graduating June 2026).
+I'm a Software Technology student focused on backend and full-stack development, currently pursuing a Bachelor’s in Computer Science at Linnaeus University (graduating June 2026).
 
 I enjoy building well-architected systems, developer tools, and products that are actually useful.
 
 Currently building AI‑powered SEO agents at Videntic using TypeScript, Next.js, and PostgreSQL. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
-
-Open to connecting with engineers and recruiters.
 
 ---
 
