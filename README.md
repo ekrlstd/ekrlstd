@@ -1,19 +1,22 @@
 ## 👋 Hi there, and
 ![abstractheader](https://github.com/user-attachments/assets/bfa9ce1c-8f42-4649-b7e9-d8781a4b36e2)
 
-I'm a Software Technology student focused on full-stack development and UI/UX design. Currently pursuing a Bachelor's in Computer Science at Linnaeus University.
-- Frontend Developer Intern at Videntic: Building Next.js/React features, translating and designing Figma documents to production code, and working with GitHub Actions CI/CD pipelines.
-- Lead Web Developer at LNU AI Society: Redesigned and rebuilt the website, reducing bundle size by 85% and improving performance.
-- Built scaled full-stack applications through university coursework using Java, JavaFX, and MySQL with Agile/SCRUM workflows.
-- Built Songfetch (100+ GitHub stars, 5 active contributors), Summit (Go CLI with OpenAI integration), and Cinematch (full-stack Next.js platform).
+Software Technology student focused on backend and full-stack development. 
+Currently pursuing a Bachelor’s in Computer Science at Linnaeus University (graduating June 2026).
+
+I enjoy building well-architected systems, developer tools, and products that are actually useful.
+
+Currently building AI‑powered SEO agents at Videntic using TypeScript, Next.js, and PostgreSQL. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
+
+Open to connecting with engineers and recruiters.
 
 ---
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,go,react,nextjs,mysql,postgres,git,linux,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,html,css,react,nextjs,nodejs,express,mysql,postgres,git,linux" />
   </a>
-</p>
+</p
 
 ---
 🤝 Let's connect!
