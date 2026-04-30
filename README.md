@@ -11,7 +11,7 @@ Currently building AI‑powered SEO agents at Videntic using TypeScript, Next.js
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,html,css,react,nextjs,nodejs,express,mysql,postgres,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,html,css,nodejs,express,mysql,postgres,git,linux" />
   </a>
 </p
 
