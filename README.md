@@ -13,7 +13,7 @@ I enjoy building well-architected systems, developer tools, and products that ar
 
 
 
-Currently building AI‑powered SEO agents at Videntic using TypeScript, Next.js, and PostgreSQL. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
+Currently doing my bachelor's thesis at Softwerk AB, and building AI‑powered SEO agents at Videntic using TypeScript, Next.js, and PostgreSQL. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
 
 ---
 
