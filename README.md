@@ -1,3 +1,10 @@
+# ekrlstd
+_Frontend Developer @ Videntic | Software Technology @ LNU | Web Developer @ LNU AI Society_
+
+<img width="1400" height="350" alt="1776171096188" src="https://github.com/user-attachments/assets/bfaf5994-5dde-41eb-9868-dc0a82e40f0f" />
+
+---
+
 Software Technology student focused on software engineering, backend and full-stack development. 
 Currently pursuing a Bachelor’s in Computer Science at Linnaeus University (graduating June 2026).
 
