@@ -15,7 +15,7 @@ Currently doing my bachelor's thesis at Softwerk AB, and building AI‑powered S
 
 ---
 
-Some of the stuff I know:
+Here's a bit of my skillset:
 
 <p align="left">
   <a href="https://skillicons.dev">
