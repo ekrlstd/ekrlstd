@@ -5,15 +5,17 @@ _Frontend Developer @ Videntic | Software Technology @ LNU | Web Developer @ LNU
 
 ---
 
-Software Technology student focused on software engineering, backend and full-stack development. 
+Software Technology student focused on software engineering, backend and full-stack development.
 Currently pursuing a Bachelor’s in Computer Science at Linnaeus University (graduating June 2026).
+
 
 
 I enjoy building well-architected systems, developer tools, and products that are actually useful.
 
 
 
-Currently doing my bachelor's thesis at Softwerk AB, and building AI‑powered SEO agents at Videntic using TypeScript, Next.js, and PostgreSQL. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
+Currently doing my bachelor's thesis at Softwerk AB, and building AI‑powered SEO agents at Videntic (Next.js, PostgreSQL), using TypeScript and React. I’ve led a major performance overhaul for the LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
+
 
 ---
 
