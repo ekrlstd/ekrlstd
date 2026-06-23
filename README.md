@@ -5,11 +5,16 @@ _Backend Engineer Intern @ Ericsson | B.Sc. in Computer Science_
 
 ---
 
-Computer Science graduate focused on software engineering, backend and full-stack development. Graduated with a Bachelor's in Computer Science (Spec. Software Technology) from Linnaeus University.
+Computer Science graduate specializing in software engineering, backend, and full-stack development (B.Sc. in Computer Science, Spec. Software Technology, Linnaeus University).
 
-I'm interested in software architecture, software design, and I like building tools and apps that people actually enjoy using.
 
-Currently interning as a Backend Engineer at Ericsson. Previously built AI‑powered SEO agents at Videntic (Next.js, PostgreSQL), using TypeScript and React, and completed my bachelor's thesis at Softwerk AB. I've led a major performance overhaul for LNU AI Society, won two hackathons, and built open‑source CLI tools with 100+ GitHub stars.
+I'm interested in software architecture and design, and I like building tools and apps people actually enjoy using.
+
+
+Currently interning as a Backend Engineer at Ericsson, building internal tooling with Python, FastAPI, PostgreSQL, Docker, and Kubernetes. Previously built AI-powered SEO agents at Videntic (Next.js, PostgreSQL, TypeScript, React), and completed my bachelor's thesis at Softwerk AB.
+
+
+Outside of work, I've led a major performance overhaul for the LNU AI Society, won two hackathons, and built open-source CLI tools with 100+ GitHub stars.
 
 ---
 
