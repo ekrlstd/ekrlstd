@@ -14,7 +14,7 @@ I'm interested in software architecture and design, and I like building tools an
 Currently interning as a Backend Engineer at Ericsson, building internal tooling with Python, FastAPI, PostgreSQL, Docker, and Kubernetes. Previously built AI-powered SEO agents at Videntic (Next.js, PostgreSQL, TypeScript, React), and completed my bachelor's thesis at Softwerk AB.
 
 
-Outside of work, I've led a major performance overhaul for the LNU AI Society, won two hackathons, and built open-source CLI tools with 100+ GitHub stars.
+Outside of work, I've led a major performance overhaul for the LNU AI Society, won two hackathons, and built open-source personal projects with 100+ GitHub stars.
 
 ---
 
